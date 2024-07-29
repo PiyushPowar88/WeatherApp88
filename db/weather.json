@@ -1,0 +1,145 @@
+{
+    "cities": [
+        {
+            "name": "Pune",
+            "country": "India",
+            "weather": {
+                "temperature": "27°F°C",
+                "humidity": "78%",
+                "wind_speed": "WSW 10 km/h",
+                "description": "Cloudy"
+            }
+        },
+        {
+            "name": "Kolhapur",
+            "country": "India",
+            "weather": {
+                "temperature": "34°F°C",
+                "humidity": "90%",
+                "wind_speed": "WSW 40 km/h",
+                "description": "Sunny"
+            }
+        },
+        {
+            "name": "Satara",
+            "country": "India",
+            "weather": {
+                "temperature": "32°F°C",
+                "humidity": "98%",
+                "wind_speed": "WSW 20 km/h",
+                "description": "Cloudy"
+            }
+        },
+        {
+            "name": "Manipur",
+            "country": "India",
+            "weather": {
+                "temperature": "43°F°C",
+                "humidity": "23%",
+                "wind_speed": "WSW 40 km/h",
+                "description": "Cloudy"
+            }
+        },
+        {
+            "name": "Mumbai",
+            "country": "India",
+            "weather": {
+                "temperature": "39°F°C",
+                "humidity": "70%",
+                "wind_speed": "WSW 8 km/h",
+                "description": "Cloudy"
+            }
+        },
+        {
+            "name": "Nagpur",
+            "country": "India",
+            "weather": {
+                "temperature": "30°F°C",
+                "humidity": "80%",
+                "wind_speed": "WSW 90 km/h",
+                "description": "Cloudy"
+            }
+        },
+        {
+            "name": "Bengaluru",
+            "country": "India",
+            "weather": {
+                "temperature": "23°F°C",
+                "humidity": "54%",
+                "wind_speed": "WSW 50 km/h",
+                "description": "Cloudy"
+            }
+        },
+        {
+            "name": "Indore",
+            "country": "India",
+            "weather": {
+                "temperature": "20°F°C",
+                "humidity": "56%",
+                "wind_speed": "WSW 67 km/h",
+                "description": "Cloudy"
+            }
+        },
+        {
+            "name": "Nashik",
+            "country": "India",
+            "weather": {
+                "temperature": "37°F°C",
+                "humidity": "99%",
+                "wind_speed": "WSW 80 km/h",
+                "description": "Cloudy"
+            }
+        },
+        {
+            "name": "Solapur",
+            "country": "India",
+            "weather": {
+                "temperature": "36°F°C",
+                "humidity": "09%",
+                "wind_speed": "WSW 2 km/h",
+                "description": "Cloudy"
+            }
+        },
+        {
+            "name": "Amravati",
+            "country": "India",
+            "weather": {
+                "temperature": "29°F°C",
+                "humidity": "68%",
+                "wind_speed": "WSW 70 km/h",
+                "description": "Cloudy"
+            }
+        },
+        {
+            "name": "Nanded",
+            "country": "India",
+            "weather": {
+                "temperature": "35°F°C",
+                "humidity": "44%",
+                "wind_speed": "WSW 50 km/h",
+                "description": "Cloudy"
+            }
+        },
+        {
+            "name": "Sangli",
+            "country": "India",
+            "weather": {
+                "temperature": "37°F°C",
+                "humidity": "98%",
+                "wind_speed": "WSW 60 km/h",
+                "description": "Cloudy"
+            }
+        },
+        {
+            "name": "Latur",
+            "country": "India",
+            "weather": {
+                "temperature": "30°F°C",
+                "humidity": "73%",
+                "wind_speed": "WSW 60 km/h",
+                "description": "Cloudy"
+            }
+        }
+        
+    ]
+}

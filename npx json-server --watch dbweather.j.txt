@@ -1,0 +1,1 @@
+npx json-server --watch db/weather.json --port 3001
